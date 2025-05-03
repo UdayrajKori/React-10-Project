@@ -1,0 +1,16 @@
+.contact_section {
+  padding: 5px 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 46.5%;
+}
+
+.contact_section h1 {
+  font-size: 48px;
+  font-weight: 800;
+}
+
+.contact_section p {
+  font-weight: 500;
+}
